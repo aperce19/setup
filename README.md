@@ -12,13 +12,19 @@ Depending on which distrobution you use, these libraries will vary. I use Ubuntu
 
 libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libxcb-icccm4-dev libyajl-dev libstartup-notification0-dev libxcb-randr0-dev libev-dev libxcb-cursor-dev libxcb-xinerama0-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev autoconf libxcb-xrm0 libxcb-xrm-dev
 
+##Setup - Themes
+
+###These are the themes I used:
+- Arc Firefox theme https://github.com/horst3180/arc-firefox-theme 
+- Arc GTK theme https://github.com/horst3180/Arc-theme
 
 ##Setup - Programs
 
 ###These are the Programs that I have used:
 
 ####Necessary Programs:
-- i3 and it's packages
+- i3
+- i3lock
 - i3-gaps (there are multiple forks, this is the one I use  http://ttrmw.co.uk/linux/i3_gaps_ubuntu.html)
 - compton
 - feh
