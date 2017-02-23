@@ -1,5 +1,7 @@
 #Setup - Home
 
+<video src="https://www.webmshare.com/play/DmQaK" width="320" height="200" controls preload></video>
+
 Welcome to Aperce19's setup page. In this page you will find all the .files and configuration settings that Aperce19 uses on his devices. 
 
 A large portion of these files have been taken or inspired by other people's projects (cited below), I do not claim to own any of these files, and would like to thank those who generously put their files online.
