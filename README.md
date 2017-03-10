@@ -18,6 +18,7 @@ libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libxcb-icccm4-d
 
 ###These are the themes I used:
 - Arc Firefox theme https://github.com/horst3180/arc-firefox-theme 
+- Firefox extension https://addons.mozilla.org/en-Us/firefox/addon/arc-dark-theme/?src=cb-dl-users
 - Arc GTK theme https://github.com/horst3180/Arc-theme
 
 ##Setup - Programs
